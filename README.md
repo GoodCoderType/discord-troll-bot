@@ -8,6 +8,12 @@ This project is a Discord bot designed to provide an interactive and entertainin
 - **Interactive Responses**: The bot listens for messages and prompts the user for a reply, which is then sent as an embedded message in the channel.
 - **Customizable**: Configure the bot with your token and channel ID via a `config.json` file.
 - **Visual Enhancements**: Uses `colorama` for colorful console output and embeds for rich message formatting in Discord.
+- 
+## Setup 
+Go To Discord APi
+Create Discord Bot
+Add In Server And Enable Intents
+Take Bot Token
 
 ## Installation
 
